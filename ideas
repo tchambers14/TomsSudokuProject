@@ -1,0 +1,16 @@
+1. Download grids from the internet
+2. Display
+3. Build Grid as a class
+    - Functions are check if number in row
+    - Have a display grid method
+
+For the main loop:
+
+While grid contains a 0 keep iterating.
+
+Next step
+Solve with a neural network
+
+Do I need a model for each box, row and column
+    - i.e. if box 7 must have a 2 in row 2 that has an impact on boxes 8 and 9
+    
